@@ -1,2 +1,2 @@
 # Quantum_Relative
-This is a train Animation of Quantum animation 
+This is a train Animation of Quantum Motion
